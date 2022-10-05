@@ -1,9 +1,14 @@
+html {
+  background-color: lightslategray;
+}
+
 body {
   background-color: lightcyan;   
   color:#302005;
   width: 70%;
   margin: 0 auto;
   font-family: 'Montserrat', sans-serif;
+  padding: 30px 40px;
 }
 
 
