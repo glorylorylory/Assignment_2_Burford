@@ -1,0 +1,87 @@
+html {
+  background-color: lightslategray;
+}
+
+body {
+  background-color: lightcyan;   
+  color:#302005;
+  width: 70%;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  padding: 30px 40px;
+}
+
+
+nav ul li {
+  display: inline-block;
+  margin: 2px auto;
+  width: auto;
+  white-space: nowrap;
+  padding: 10px 20px;
+  background-color: lightslategray;
+}
+
+
+nav ul li a:link {
+  text-decoration: none;
+  color: lightblue;
+  font-weight: 700;
+}
+
+nav ul li a:visited {
+  color: lavender;
+}
+
+nav ul li a:hover {
+  color: white;
+}
+
+
+img {
+  width: 400px;
+  display: block;
+  margin: 30px auto;
+}
+
+
+table {
+  border:0.5px solid white;
+  background-color: lightslategray;
+  color: white;
+  margin: 30px auto;
+}
+
+figure {
+  margin: 30px auto;
+}
+
+
+div.indent {
+  padding-left: 50px;
+}
+
+
+th, td {
+  border:0.5px solid white;
+  padding: 10px;
+}
+
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+dl.indent {
+  padding-left: 50px;
+}
+
+dl.indent dt {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+dl.indent dt dd {
+  margin-bottom: 10px;
+}
